@@ -23,6 +23,7 @@ export default function Hero(){
                   active:scale-95 
                   focus:outline-none focus:ring-2 focus:ring-pink-200 animate-bounce m-5 cursor-pointer">
   Découvrir
-</button>      </div>
+</button>
+      </div>
     )
 }
