@@ -4,8 +4,7 @@ export default function Hero(){
 
     return(
         <div className="text-white flex flex-col justify-center items-center h-[80vh]">
-            <div className="h-[130px] w-[130px] rounded-t-xl rounded-tr-2xl rounded-r-[-30px] - bg-yellow-600 animate-spin delay-500 transition-colors duration-500"></div>
-            <h1 className="text-8xl font-extrabold relative inline-block">
+          <h1 className="text-8xl font-extrabold relative inline-block">
   <span className="relative">
     C
     <span className="absolute -top-3 -right-6 h-[0.2em] w-[0.2em] bg-yellow-400 rounded-full 
